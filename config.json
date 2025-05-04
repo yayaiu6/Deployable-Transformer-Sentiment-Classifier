@@ -1,0 +1,11 @@
+{
+  "d_ff": 1024,
+  "d_model": 256,
+  "dropout": 0.3,
+  "model_type": "sentiment140_transformer",
+  "num_classes": 3,
+  "num_heads": 8,
+  "num_layers": 6,
+  "transformers_version": "4.50.0",
+  "vocab_size": 119547
+}
